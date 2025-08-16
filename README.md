@@ -21,7 +21,7 @@
 
 ## 📂 Project Structure
 
-    ```
+```
 my-app/
  ├─ context/
  │   └─ UserContext.js
@@ -36,6 +36,7 @@ my-app/
  │   └─ api/
  │       └─ hello.js
  └─ package.json
+
 ```
 
 ---
