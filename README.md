@@ -92,12 +92,16 @@ Visit[http://localhost:3000](http://localhost:3000) or your LAN IP (e.g. `http:/
 
 ---
 
-## 📖 API Endpoints
-| Method | Endpoint         | Description                         |
-|--------|-----------------|-------------------------------------|
-| POST   | `/upload_video/` | Upload & process a new video      |
-| GET    | `/progress/`     | Get real-time processing progress |
-| POST   | `/chat/`         | Ask AI questions about the video  |
-| GET    | `/reports/`      | View past analysis reports        |
+## 📩 Contact
+
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                      |
+| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📂 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror) |
+| **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
+
 
 ---
