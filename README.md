@@ -51,6 +51,26 @@ my-app/
 
 ---
 
+
+## 🌐 Test URLs
+
+Once the server is running (`npm run dev`), you can test the following routes:
+
+- `/` → Home (React state + Context)
+- `/about` → About (Context + SSG props)
+- `/server` → Server-Side Rendering (SSR example)
+- `/static` → Static Site Generation (SSG example)
+- `/menu/pizza` → Dynamic route (Pizza dish)
+- `/menu/paneer` → Dynamic route (Paneer dish)
+- `/menu/biryani` → Dynamic route (Biryani dish)
+- `/menu/anything` → Dynamic route generated on demand (ISR)
+- `/api/hello` → API route (returns JSON)
+
+Open them at [http://localhost:3000](http://localhost:3000)
+(or `http://192.168.1.42:3000` on your LAN).
+
+---
+
 ## 🛠️ Setup & Run
 
 ```bash
